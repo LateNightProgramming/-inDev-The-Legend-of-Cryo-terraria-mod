@@ -1,0 +1,3 @@
+displayName = The Legend of Cryo
+author = CryoFrozen
+version = 0.1
